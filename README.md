@@ -3,5 +3,5 @@
 ```pyton
 print("I like Python")
 
-print(""Practices make perfect.")
+print("Practices make perfect.")
 ```
