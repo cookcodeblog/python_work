@@ -1,0 +1,4 @@
+In Python you can print sth to console.
+In Python you can create an instance of class.
+In Python you can create list and tuple.
+In Python you can read and write a file.
